@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "noEmit": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "paths": {
+      "@fixtures/*": ["./src/fixtures/*"],
+      "@pages/*": ["./src/pages/*"],
+    },
+  }
+}
