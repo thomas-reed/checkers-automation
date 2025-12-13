@@ -6,7 +6,7 @@ export default defineConfig({
   outputDir: './test-results/failure',
   fullyParallel: true,
   retries: 0,
-  workers: 5,
+  workers: 1,
   reporter: [
     ['list'],
     ['html', { outputFolder: './html-reports', open: 'on-failure' }],
