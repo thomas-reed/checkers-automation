@@ -1,7 +1,8 @@
 # Checkers Test Plan 
 
 ## Overview
-Looking to test out the checkers game located at https://www.gamesforthebrain.com/game/checkers/
+Test plan for the checkers game located at https://www.gamesforthebrain.com/game/checkers/
+The code in this repo is intentionally unfinished.  It is meant as a showcase of what I can produce in a few hours from scratch _without_ the use of AI - my code style/habits, and to invite questions/comments as part of an interview.
 
 ## Objectives
 Test:
